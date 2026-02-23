@@ -1,0 +1,6 @@
+@gestione_jtw_HostAddress = http://localhost:5053
+
+GET {{gestione_jtw_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
